@@ -1,3 +1,3 @@
-# App_final_project_memorandum
+# App_final_project_memo
 
 A memo with login/logout functionality. 
